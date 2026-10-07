@@ -55,11 +55,14 @@ Librer-a-LunaBelle/
 
 │
 ├── css/
+
 │   └── style.css
 
 │
 ├── js/
+
 │   ├── main.js
+
 │   └── ui.js
 
 │
@@ -68,7 +71,9 @@ Librer-a-LunaBelle/
 
 │
 └── assets/
+
     └── img/
+    
         └── imágenes de los libros
 🌺━━━━━━━━━━━━━━━━━━━━🌺
 ## 🌷📖 Catálogo
