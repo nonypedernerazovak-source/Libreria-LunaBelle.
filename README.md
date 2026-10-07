@@ -12,6 +12,7 @@ Permite explorar un catálogo de libros, buscar títulos , filtrar por categorí
 ## 🌸🎯 Objetivo
 Desarrollar un simulador de proceso comercial completo utilizando las herramientas aprendidas durante el curso.
 El circuito principal de LunaBelle es:
+
 🌷Catálogo → búsqueda/filtro → selección de libros → carrito → modificación de cantidades → cálculo del total → confirmación de compra.
 
 🌺━━━━━━━━━━━━━━━━━━━━🌺
