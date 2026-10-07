@@ -47,19 +47,25 @@ El circuito principal de LunaBelle es:
 🌷━━━━━━━━━━━━━━━━━━━━🌷
 
 ## 🌸📁 Estructura del proyecto
+
 Librer-a-LunaBelle/
+
 │
 ├── index.html
+
 │
 ├── css/
 │   └── style.css
+
 │
 ├── js/
 │   ├── main.js
 │   └── ui.js
+
 │
 ├── data/
 │   └── libros.json
+
 │
 └── assets/
     └── img/
