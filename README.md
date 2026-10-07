@@ -46,28 +46,7 @@ El circuito principal de LunaBelle es:
 
 🌷━━━━━━━━━━━━━━━━━━━━🌷
 
-## 🌸📁 Estructura del proyecto
 
-Librer-a-LunaBelle/
-
-│
-├── index.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   ├── main.js
-│   └── ui.js
-│
-├── data/
-│   └── libros.json
-│
-└── assets/
-
-    └── img/
-    
-        └── imágenes de los libros
 🌺━━━━━━━━━━━━━━━━━━━━🌺
 ## 🌷📖 Catálogo
 Cuenta con diferentes títulos y categorías,cada libro contiene información como:
