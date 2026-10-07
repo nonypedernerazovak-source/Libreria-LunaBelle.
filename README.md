@@ -18,18 +18,30 @@ El circuito principal de LunaBelle es:
 🌺━━━━━━━━━━━━━━━━━━━━🌺
 ## 🌸✨ Funcionalidades
 
-🌺📚 Visualización de libros disponibles.  
+🌺📚 Visualización de libros disponibles.
+
 🌺🔎 Búsqueda de libros por título o autor. 
+
 🌺🏷️ Filtro de libros por categoría.
+
 🌺🛒 Agregar libros al carrito.  
-🌺➕ Aumentar la cantidad de un producto.  
-🌺➖ Disminuir la cantidad de un producto.  
+
+🌺➕ Aumentar la cantidad de un producto. 
+
+🌺➖ Disminuir la cantidad de un producto.
+
 🌺🗑️ Eliminar productos del carrito.  
+
 🌺🧹 Vaciar el carrito.  
+
 🌺💰 Cálculo automático del total.  
+
 🌺🔢 Contador de productos del carrito.
+
 🌺✅ Confirmación de compra.
+
 🌺💾 Persistencia del carrito mediante. 
+
 🌺🔔 Notificaciones visuales mediante.  
 
 🌷━━━━━━━━━━━━━━━━━━━━🌷
