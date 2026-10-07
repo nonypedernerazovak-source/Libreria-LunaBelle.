@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "titulo": "Harry Potter y la piedra filosofal",
+        "autor": "J.K. Rowling",
+        "categoria": "Fantasía",
+        "precio": 33000,
+        "stock": 10,
+        "imagen": "./assets/img/HARRY POTTER Y LA PIEDRA FILOSOFAL.jpg"
+    },
+    {
+        "id": 2,
+        "titulo": "Harry Potter y el prisionero de Azkaban",
+        "autor": "J.K. Rowling",
+        "categoria": "Fantasía",
+        "precio": 30000,
+        "stock": 10,
+        "imagen": "./assets/img/HARRY POTTER Y EL PRISIONERO DE AZKABAN.jpg"
+    },
+    {
+        "id": 3,
+        "titulo": "Bridgerton: El vizconde que me amó",
+        "autor": "Julia Quinn",
+        "categoria": "Romance",
+        "precio": 25000,
+        "stock": 8,
+        "imagen": "./assets/img/EL VIZCONDE QUE ME AMÓ.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Bridgerton: El corazón de una Bridgerton",
+        "autor": "Julia Quinn",
+        "categoria": "Romance",
+        "precio": 25000,
+        "stock": 3,
+        "imagen": "./assets/img/EL CORAZÓN DE UNA BRIDEGERTON.jpg"
+    },
+    {
+        "id": 5,
+        "titulo": "Bridgerton: A Sir Phillip, con amor",
+        "autor": "Julia Quinn",
+        "categoria": "Romance",
+        "precio": 25000,
+        "stock": 5,
+        "imagen": "./assets/img/A SIR.PHILIP,CON AMOR.jpg"
+    },
+    {
+        "id": 6,
+        "titulo": "Bridgerton: Te doy mi corazón",
+        "autor": "Julia Quinn",
+        "categoria": "Romance",
+        "precio": 25000,
+        "stock": 3,
+        "imagen": "./assets/img/TE DOY MI CORAZÓN.jpg"
+    },
+    {
+        "id": 7,
+        "titulo": "Bridgerton: El duque y yo",
+        "autor": "Julia Quinn",
+        "categoria": "Romance",
+        "precio": 25000,
+        "stock": 8,
+        "imagen": "./assets/img/EL DUQUE Y YO.jpg"
+    },
+   {
+        "id": 8,
+        "titulo": "Las Crónicas de Narnia",
+        "autor": "C.S. Lewis",
+        "categoria": "Fantasía",
+        "precio": 32000,
+        "stock": 7,
+        "imagen": "./assets/img/LAS CRONICAS DE NARNIA.jpg"
+    },
+    {
+        "id": 9,
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "categoria": "Romance",
+        "precio": 27000,
+        "stock": 6,
+        "imagen": "./assets/img/ORGULLO Y PREJUICIO.jpg"
+    },
+    {"id":10,
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "categoria": "Fantasía",
+        "precio": 40000,
+        "stock": 4,
+        "imagen": "./assets/img/EL SEÑOR DE LOS ANILLOS.jpg"
+    },
+    {
+        "id":11,
+        "titulo": "La Hipotesis del amor",
+        "autor": "Ali Hazelwood",
+        "categoria": "Romance",
+        "precio": 28000,
+        "stock": 5,
+        "imagen": "./assets/img/LA HIPOTESIS DEL AMOR.jpg"
+    },
+    {
+        "id":12,
+        "titulo": "Off Campus:Inmune a ti  ",
+        "autor": "Elle Kennedy",
+        "categoria": "Romance",
+        "precio": 35000,
+        "stock": 6,
+        "imagen": "./assets/img/OFF CAMPUS -INMUNE A TI.jpg"
+    },
+    {
+        "id":13,
+        "titulo": "Diario de Vampiros",
+        "autor": "L.J. Smith",
+        "categoria": "Sobrenatural",
+        "precio": 35000,
+        "stock": 1,
+        "imagen": "./assets/img/DIARIO DE VAMPIROS.jpg"
+    },
+    {
+        "id":14,
+        "titulo": "Wicked:memorias de una bruja mala (edicion limitada)",
+        "autor": "Gregory Maguire",
+        "categoria": "Fantasía",
+        "precio": 55000,
+        "stock": 3,
+        "imagen": "./assets/img/WICKED-MEMORIAS DE UNA BRUJA MALA.jpg"
+    },
+    {
+        "id":15,
+        "titulo": "Un oso llamado Paddington",
+        "autor": "Michael Bond",
+        "categoria": "Infantil",
+        "precio": 20000,
+        "stock": 10,
+        "imagen": "./assets/img/UN OSO LLAMADO PADDINGTON.jpg"
+    },
+    {
+        "id":16,
+        "titulo": "Charlie y la fabrica de chocolate",
+        "autor": "Roald Dahl",
+        "categoria": "Infantil",
+        "precio": 25000,
+        "stock": 10,
+        "imagen": "./assets/img/CHARLIE Y LA FABRICA DE CHOCOLATE.jpg"
+    }
+]
