@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="LunaBelle - Librería online">
+    <title>LunaBelle | Librería Online </title>
+
+    <link rel="stylesheet" href="./css/style.css">
+
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="header-contenido">
+            <div class="logo">
+                <span>📚</span>
+                <h1>LunaBelle</h1>
+            </div>
+
+            <button id="btnCarrito" class="btn-carrito">
+                🛒 Carrito
+                <span id="contadorCarrito">0</span>
+            </button>
+        </div>
+    </header>
+
+    <main class="contenedor">
+
+        <section class="presentacion">
+            <div>
+                <p class="etiqueta">LIBRERÍA ONLINE</p>
+                <h2>Encontrá tu próxima historia</h2>
+                <p>
+                    Explorá nuestro catálogo, elegí tus libros favoritos
+                    y armá tu pedido de manera simple y rápida.
+                </p>
+            </div>
+        </section>
+
+        <section class="catalogo-section">
+
+            <div class="titulo-section">
+                <div>
+                    <p class="etiqueta">CATÁLOGO</p>
+                    <h2>Libros disponibles</h2>
+                </div>
+            </div>
+
+            <div class="filtros">
+
+                <div class="campo">
+                    <label for="buscador">Buscar libro</label>
+                    <input
+                        type="search"
+                        id="buscador"
+                        placeholder="Título o autor..."
+                    >
+                </div>
+
+                <div class="campo">
+                    <label for="filtroCategoria">Categoría</label>
+                    <select id="filtroCategoria">
+                        <option value="todas">Todas</option>
+                    </select>
+                </div>
+
+            </div>
+
+            <div id="estadoCarga" class="estado">
+                <span class="spinner"></span>
+                <p>Cargando catálogo...</p>
+            </div>
+
+            <div id="mensajeError" class="mensaje-error oculto">
+                <p>No pudimos cargar el catálogo.</p>
+                <button id="btnReintentar" class="btn-principal">
+                    Reintentar
+                </button>
+            </div>
+
+            <div id="listaLibros" class="grid-libros"></div>
+
+        </section>
+
+        <section id="seccionCarrito" class="carrito-section">
+
+            <div class="titulo-section">
+                <div>
+                    <p class="etiqueta">TU PEDIDO</p>
+                    <h2>Carrito de compras</h2>
+                </div>
+            </div>
+
+            <div id="listaCarrito" class="lista-carrito">
+                <div class="carrito-vacio">
+                    <span>🛒</span>
+                    <h3>Tu carrito está vacío</h3>
+                    <p>Agregá un libro para comenzar tu compra.</p>
+                </div>
+            </div>
+
+            <div class="resumen-carrito">
+
+                <div>
+                    <span>Total</span>
+                    <strong id="totalCarrito">$0</strong>
+                </div>
+
+                <div class="acciones-carrito">
+                    <button id="btnVaciarCarrito" class="btn-secundario">
+                        Vaciar carrito
+                    </button>
+
+                    <button id="btnConfirmarCompra" class="btn-principal">
+                        Confirmar compra
+                    </button>
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer class="footer">
+        <p>© 2026 LunaBelle - Librería Online</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script type="module" src="./js/main.js"></script>
+
+</body>
+</html>
