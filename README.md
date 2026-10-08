@@ -101,10 +101,15 @@ Para mejorar la experiencia se utilizan  mensajes visuales al realizar diferente
 ## 🚀🌷 Ejecución del proyecto
 
 Para ejecutar el proyecto utilizar Live Server.
+
 🌷 📥 Descargar o clonar el repositorio.
+
 🌷 💻 Abrir la carpeta del proyecto en Visual Studio Code.
+
 🌷 🌐 Abrir `index.html` mediante Live Server.
+
 🌷  📚 Navegar por el catálogo.
+
 🌷 🛒 Probar las funcionalidades del carrito.
 
 🌸━━━━━━━━━━━━━━━━━━━━🌸
