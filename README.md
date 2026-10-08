@@ -78,10 +78,7 @@ Cuenta con diferentes títulos y categorías,cada libro contiene información co
 
 🌳 **Narnia** — C.S. Lewis — Fantasía  
 
-🌸━━━━━━━━━━━━━━━━━━━━🌸
-
-
-🌷━━━━━━━━━━━━━━━━━━━━🌷
+🌸━━━━━━━━━━━━━━━━━━━━🌸                                                        🌷━━━━━━━━━━━━━━━━━━━━🌷
 ## 🌺🎨 Diseño
 
 LunaBelle utiliza una estética con una  propuesta  visual que combina tonos:
@@ -132,6 +129,8 @@ Para ejecutar el proyecto utilizar Live Server.
 
 
 **Una historia nueva puede comenzar con un libro....** 🌹
+
 *Elegí un libro y déjate llevar por la magia y explora un mundo lleno de historias esperando ser descubiertas.”* 🌷📖✨
+
 **✨ Tu próxima aventura comienza aquí. 🌙**🌷💜📖
 🌸 🌷 🌺 🌹 🌸 🌷 🌺 🌹 🌸
