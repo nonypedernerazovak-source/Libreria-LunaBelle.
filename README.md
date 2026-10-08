@@ -49,14 +49,21 @@ El circuito principal de LunaBelle es:
 
 🌺━━━━━━━━━━━━━━━━━━━━🌺
 ## 🌷📖 Catálogo
+
 Cuenta con diferentes títulos y categorías,cada libro contiene información como:
 
 🌸Título
+
 🌷Autor
+
 🌸Categoría
+
 🌷Precio
+
 🌸Stock
+
 🌷Imagen
+
 🌺━━━━━━━━━━━━━━━━━━━━🌺
 **Algunos libros :
 📕 **Harry Potter** — J.K. Rowling — Fantasía  
