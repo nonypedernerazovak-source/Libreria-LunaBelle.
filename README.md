@@ -6,8 +6,8 @@ LunaBelle es una aplicación web interactiva desarrollada como **proyecto final 
 Permite explorar un catálogo de libros, buscar títulos , filtrar por categoría, agregar productos al carrito, modificar cantidades, eliminar productos, calcular el total y confirmar una compra🌹.
 
 🌷 **Una historia nueva puede comenzar con un libro.** 🌷
-
-🌷━━━━━━━━━━━━━━━━━━━━🌷
+ 
+🌷━━━━━━━━━━━━━━━━━━━━🌷                                                                     🌺━━━━━━━━━━━━━━━━━━━━🌺               
 
 ## 🌸🎯 Objetivo
 Desarrollar un simulador de proceso comercial completo utilizando las herramientas aprendidas durante el curso.
@@ -15,7 +15,7 @@ El circuito principal de LunaBelle es:
 
 🌷Catálogo → búsqueda/filtro → selección de libros → carrito → modificación de cantidades → cálculo del total → confirmación de compra.
 
-🌺━━━━━━━━━━━━━━━━━━━━🌺
+🌺━━━━━━━━━━━━━━━━━━━━🌺                                                                       🌸━━━━━━━━━━━━━━━━━━━━🌸   
 ## 🌸✨ Funcionalidades
 
 🌺📚 Visualización de libros disponibles.
@@ -44,10 +44,10 @@ El circuito principal de LunaBelle es:
 
 🌺🔔 Notificaciones visuales mediante.  
 
-🌷━━━━━━━━━━━━━━━━━━━━🌷
+🌷━━━━━━━━━━━━━━━━━━━━🌷                                                                            🌸━━━━━━━━━━━━━━━━━━━━🌸   
 
 
-🌺━━━━━━━━━━━━━━━━━━━━🌺
+🌺━━━━━━━━━━━━━━━━━━━━🌺                                                                             🌷━━━━━━━━━━━━━━━━━━━━🌷           
 ## 🌷📖 Catálogo
 
 Cuenta con diferentes títulos y categorías,cada libro contiene información como:
@@ -64,7 +64,7 @@ Cuenta con diferentes títulos y categorías,cada libro contiene información co
 
 🌷Imagen
 
-🌺━━━━━━━━━━━━━━━━━━━━🌺
+🌺━━━━━━━━━━━━━━━━━━━━🌺                                                                                 🌷━━━━━━━━━━━━━━━━━━━━🌷  
 
 **Algunos libros :
 
@@ -78,7 +78,7 @@ Cuenta con diferentes títulos y categorías,cada libro contiene información co
 
 🌳 **Narnia** — C.S. Lewis — Fantasía  
 
-🌸━━━━━━━━━━━━━━━━━━━━🌸                                                        🌷━━━━━━━━━━━━━━━━━━━━🌷
+🌸━━━━━━━━━━━━━━━━━━━━🌸                                                                                     🌷━━━━━━━━━━━━━━━━━━━━🌷
 ## 🌺🎨 Diseño
 
 LunaBelle utiliza una estética con una  propuesta  visual que combina tonos:
@@ -89,13 +89,13 @@ LunaBelle utiliza una estética con una  propuesta  visual que combina tonos:
 🌊 Turquesa 
 🤍Blanco
 
-🌷━━━━━━━━━━━━━━━━━━━━🌷
+🌷━━━━━━━━━━━━━━━━━━━━🌷                                                                                      🌺━━━━━━━━━━━━━━━━━━━━🌺
 
 ## 🔔🌸 Notificaciones
 
 Para mejorar la experiencia se utilizan  mensajes visuales al realizar diferentes acciones dentro de la librería.
 
-🌺━━━━━━━━━━━━━━━━━━━━🌺
+🌺━━━━━━━━━━━━━━━━━━━━🌺                                                                                        🌺━━━━━━━━━━━━━━━━━━━━🌺
 
 ## 🚀🌷 Ejecución del proyecto
 
@@ -111,7 +111,7 @@ Para ejecutar el proyecto utilizar Live Server.
 
 🌷 🛒 Probar las funcionalidades del carrito.
 
-🌸━━━━━━━━━━━━━━━━━━━━🌸
+🌸━━━━━━━━━━━━━━━━━━━━🌸                                                                                         🌸━━━━━━━━━━━━━━━━━━━━🌸 
 
 
 🌺━━━━━━━━━━━━━━━━━━━━🌺
@@ -123,9 +123,9 @@ Para ejecutar el proyecto utilizar Live Server.
 🌷 Proyecto realizado para la **Entrega Final** 🌷
 # 🌸📚 LunaBelle 🌙✨
 
-🌺━━━━━━━━━━━━━━━━━━━━🌺
+🌺━━━━━━━━━━━━━━━━━━━━🌺                                                                                          🌸━━━━━━━━━━━━━━━━━━━━🌸
 
-🌸━━━━━━━━━━━━━━━━━━━━🌸
+🌸━━━━━━━━━━━━━━━━━━━━🌸                                                                                          🌷━━━━━━━━━━━━━━━━━━━━🌷  
 
 
 **Una historia nueva puede comenzar con un libro....** 🌹
