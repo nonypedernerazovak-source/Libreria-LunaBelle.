@@ -34,3 +34,53 @@ export function agregarAlCarrito(libro) {
             cantidad: 1
         });
     }
+
+    guardarCarrito();
+}
+
+export function aumentarCantidad(id) {
+    const producto = carrito.find(item => item.id === id);
+
+    if (producto && producto.cantidad < producto.stock) {
+        producto.cantidad++;
+        guardarCarrito();
+    }
+}
+
+export function disminuirCantidad(id) {
+    const producto = carrito.find(item => item.id === id);
+
+    if (producto) {
+        if (producto.cantidad > 1) {
+            producto.cantidad--;
+        } else {
+            carrito = carrito.filter(item => item.id !== id);
+        }
+
+        guardarCarrito();
+    }
+}
+
+export function eliminarProducto(id) {
+    carrito = carrito.filter(item => item.id !== id);
+    guardarCarrito();
+}
+
+export function vaciarCarrito() {
+    carrito = [];
+    guardarCarrito();
+}
+
+export function calcularTotal() {
+    return carrito.reduce(
+        (total, item) => total + item.precio * item.cantidad,
+        0
+    );
+}
+
+export function calcularCantidadTotal() {
+    return carrito.reduce(
+        (total, item) => total + item.cantidad,
+        0
+    );
+}
