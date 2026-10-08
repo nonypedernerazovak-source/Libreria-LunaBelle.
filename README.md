@@ -65,11 +65,17 @@ Cuenta con diferentes títulos y categorías,cada libro contiene información co
 🌷Imagen
 
 🌺━━━━━━━━━━━━━━━━━━━━🌺
+
 **Algunos libros :
+
 📕 **Harry Potter** — J.K. Rowling — Fantasía  
+
 🌹 **Bridgerton** — Julia Quinn — Romance  
+
 📚 **Un oso llamado Paddington** - Michael Bond - Infantil
+
 🌙**Diario de Vampiros** - L.J. Smith - Sobrenatural
+
 🌳 **Narnia** — C.S. Lewis — Fantasía  
 
 🌸━━━━━━━━━━━━━━━━━━━━🌸
